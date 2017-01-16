@@ -259,8 +259,8 @@ word_count: true
 #   enabled: [true/false] - Replace with specific image
 #   image: url-of-image   - Images's url
 custom_logo:
-  enabled: false
-  image:
+  enabled: true 
+  image: /images/Avatar.jpg
 
 
 # Code Highlight theme
