@@ -288,10 +288,10 @@ mathjax:
 baidu_analytics: 12ae893fb1833bb5521cb0395c407976
 
 # Duoshuo ShortName
-#duoshuo_shortname: hippo-jessy
+duoshuo_shortname: hippo-jessy
 
 # Disqus
-disqus_shortname: hippo-jessy
+#disqus_shortname: hippo-jessy
 
 # Hypercomments
 #hypercomments_id:
