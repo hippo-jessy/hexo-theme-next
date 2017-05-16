@@ -293,13 +293,13 @@ baidu_analytics: 12ae893fb1833bb5521cb0395c407976
 # duoshuo_shortname: hippo-jessy
 
 # Disqus
-disqus_shortname: hippo-jessy
+#disqus_shortname: hippo-jessy
 
 # Hypercomments
 #hypercomments_id:
 
 # Gentie productKey
-#gentie_productKey:
+gentie_productKey: 64e22c40dd504da5b065c0b8b2a5d133
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
