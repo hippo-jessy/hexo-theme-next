@@ -293,7 +293,7 @@ baidu_analytics: 12ae893fb1833bb5521cb0395c407976
 # duoshuo_shortname: hippo-jessy
 
 # Disqus
-#disqus_shortname: hippo-jessy
+# disqus_shortname: hippo-jessy
 
 # Hypercomments
 #hypercomments_id:
@@ -318,10 +318,10 @@ gentie_productKey: 64e22c40dd504da5b065c0b8b2a5d133
 #add_this_id:
 
 # Share
-duoshuo_share: true
+# duoshuo_share: true
 
 # Hot Article
-duoshuo_hotarticle: true
+# duoshuo_hotarticle: true
 
 
 # Google Webmaster tools verification setting
